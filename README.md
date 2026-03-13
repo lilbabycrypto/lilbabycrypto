@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Builder.+Hacker.+Competitor.;AI+%7C+Quant+%7C+Full-Stack+%7C+Mobile;I+ship+fast+and+break+leaderboards.&font=JetBrains+Mono&center=true&width=620&height=60&color=58A6FF&vCenter=true&pause=1200&size=24&duration=3000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=MBA+%2B+Engineer.+Builder.+Competitor.;AI+%7C+Quant+%7C+Full-Stack+%7C+Mobile;I+think+in+business+models+and+build+in+code.&font=JetBrains+Mono&center=true&width=620&height=60&color=58A6FF&vCenter=true&pause=1200&size=24&duration=3000" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,9 @@
 
 ### About
 
-I build AI systems, quantitative trading algorithms, and full-stack products. I compete in Kaggle challenges, hackathons, and quant competitions — not for the certificates, but for the prize money and the craft.
+MBA + Engineer. I think in business models and build in code.
+
+I build AI systems, quantitative trading algorithms, and full-stack products — and I understand the market strategy, unit economics, and go-to-market behind them. I compete in Kaggle challenges, hackathons, and quant competitions — not for the certificates, but for the prize money and the craft.
 
 Currently shipping:
 - AI-powered SaaS platforms (live, with paying users)
@@ -20,7 +22,7 @@ Currently shipping:
 - Native Android apps (on Play Store)
 - Competition submissions across ML, blockchain, and quantitative finance
 
-I work across the full stack — from fine-tuning transformer models to deploying production apps to writing native Kotlin.
+I work across the full stack — from fine-tuning transformer models to deploying production apps to writing native Kotlin. The MBA means I also know *which* things are worth building.
 
 ---
 
